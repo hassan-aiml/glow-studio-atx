@@ -1,0 +1,8 @@
+{
+  "crons": [
+    {
+      "path": "/api/cron?secret=drip-secret-change-this-in-production",
+      "schedule": "0 9 * * *"
+    }
+  ]
+}
