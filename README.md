@@ -144,4 +144,4 @@ Seed demo bookings from the dashboard dev tools strip, then trigger the CRON man
 
 Built by Hassan Hai — exploring applied AI for small service businesses. This is one of three projects in my AI portfolio, alongside a NOC triage agent for telecom operations and an AI-powered field inspection tool.
 
-[LinkedIn](https://linkedin.com/in/your-profile) · [NOC Triage Agent](https://github.com/hassan-aiml/noc-triage-agent)
+[LinkedIn](https://www.linkedin.com/in/hassan73/) · [Portfolio](hassan-aiml)
